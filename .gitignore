@@ -1,0 +1,5 @@
+result/
+photo/
+checkpoints/
+**/_pycache_
+__pycache__/
